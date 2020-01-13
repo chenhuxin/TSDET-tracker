@@ -18,18 +18,18 @@ Before running our code, check if you have a state-of-the-art GPU. I develop thi
 
 1. Please download the VGG-16 model and put it under 'TSDET/exp/model/'. You can download VGG-16 model via http://www.vlfeat.org/matconvnet/pretrained/.
 2. Compile the MatConvNet according to the [website](http://www.vlfeat.org/matconvnet/install/).
-3. Try 'TSDET/demo.m' to see the tracker performance on the test sequences.
+3. Try `TSDET/demo.m` to see the tracker performance on the test sequences.
 
 ## Contact
-Huxin Chen
+Huxin Chen<br>
 Email: huxin_chen@163.com
 
 ## Citation
 If you find the code useful, please cite:
-@article{Hu-TSDET-2020,
-  title="{Deep Ensemble Object Tracking Based on Temporal and Spatial Networks}",
-  author={Zhaohua Hu, Huxin Chen and Gaofei Li},
-  journal={IEEE Access},
-  year={2020},
+@article{Hu-TSDET-2020,<br>
+  title="{Deep Ensemble Object Tracking Based on Temporal and Spatial Networks}",<br>
+  author={Zhaohua Hu, Huxin Chen and Gaofei Li},<br>
+  journal={IEEE Access},<br>
+  year={2020},<br>
   }
   
