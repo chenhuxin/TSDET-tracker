@@ -1,8 +1,8 @@
-# TSDET-tracker
- Deep Ensemble Object Tracking Based on Temporal and Spatial Networks
-## This is the implementation of our TSDET paper. The paper page can be found here: (https://www.kaggle.com/c/aerial-cactus-identification)
+# TSDET-tracker: Deep Ensemble Object Tracking Based on Temporal and Spatial Networks <br>
 
-There are three folders in this repository where the matconvnet toolbox and Skiing sequences are contained. Our main development is kept in the folder CREST.
+This is the implementation of our TSDET paper. The paper page can be found here: https://ieeexplore.ieee.org/document/8950038
+
+There is one folder in this repository. Our main development is kept in the folder TSDET. Matconvnet folder and test sequence are placed in dataset folder and external folder, respectively.
 
 Before running our code, check if you have a state-of-the-art GPU. I develop this code using Titan Black. Make sure yours are better than mine :-).
 
