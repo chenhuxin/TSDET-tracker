@@ -1,0 +1,6 @@
+addpath matlab;  
+%with cudnn  
+vl_compilenn('enableGpu', true, ...  
+                'cudaRoot', 'C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0', ...  % CUDA的安装路径  
+                'cudaMethod', 'nvcc', 'enableCudnn', true, ...  
+                'cudnnRoot', 'local\cudnn');  % cuDNN的路径 
