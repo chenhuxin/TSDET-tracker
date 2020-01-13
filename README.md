@@ -6,12 +6,30 @@ This is the implementation of our TSDET paper. The paper page can be found here:
 ## Requirements
 There is one folder in this repository. Our main development is kept in the folder TSDET. Matconvnet folder and test sequence are placed in dataset folder and external folder, respectively.
 
-Before running our code, check if you have a state-of-the-art GPU. I develop this code using Titan Black. Make sure yours are better than mine :-).
+1. MatConvNet-1.0-beta24 or latest
+2. Matlab2017b
+3. VS2015
+4. Cuda8.0
+5. cudnnV5
+6. git clone https://github.com/chenhuxin/TSDET-tracker.git
 
-Please download the VGG-16 model and put it under 'CREST/exp/model/'. You can download VGG-16 model via http://www.vlfeat.org/matconvnet/pretrained/.
+## How to run the Code
+Before running our code, check if you have a state-of-the-art GPU. I develop this code using NVIDIA GTX 1060. Make sure yours are better than mine.
 
-Meanwhile, please configure matconvnet on your side. (You need to compile matconvnet using the provided because of the modifications.)
+1. Please download the VGG-16 model and put it under 'TSDET/exp/model/'. You can download VGG-16 model via http://www.vlfeat.org/matconvnet/pretrained/.
+2. Compile the MatConvNet according to the [website](http://www.vlfeat.org/matconvnet/install/).
+3. Try 'TSDET/demo.m' to see the tracker performance on the test sequences.
 
-Try 'CREST/demo.m' to see the tracker performance on the Skiing sequences.
+## Contact
+Huxin Chen
+Email: huxin_chen@163.com
 
+## Citation
 If you find the code useful, please cite:
+@article{Hu-TSDET-2020,
+  title="{Deep Ensemble Object Tracking Based on Temporal and Spatial Networks}",
+  author={Zhaohua Hu, Huxin Chen and Gaofei Li},
+  journal={IEEE Access},
+  year={2020},
+  }
+  
