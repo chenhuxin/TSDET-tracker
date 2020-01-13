@@ -25,11 +25,11 @@ Huxin Chen<br>
 Email: huxin_chen@163.com
 
 ## Citation
-If you find the code useful, please cite:
-@article{Hu-TSDET-2020,<br>
+If you find the code useful, please cite:<br>
+`@article{Hu-TSDET-2020,<br>
   title="{Deep Ensemble Object Tracking Based on Temporal and Spatial Networks}",<br>
   author={Zhaohua Hu, Huxin Chen and Gaofei Li},<br>
   journal={IEEE Access},<br>
   year={2020},<br>
-  }
+  }`
   
