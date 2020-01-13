@@ -1,7 +1,9 @@
-# TSDET-tracker: Deep Ensemble Object Tracking Based on Temporal and Spatial Networks <br>
-## Huxin Chen <br>
+# TSDET-tracker: Deep Ensemble Object Tracking Based on Temporal and Spatial Networks 
+
+## Huxin Chen
 This is the implementation of our TSDET paper. The paper page can be found here: https://ieeexplore.ieee.org/document/8950038
 
+## Requirements
 There is one folder in this repository. Our main development is kept in the folder TSDET. Matconvnet folder and test sequence are placed in dataset folder and external folder, respectively.
 
 Before running our code, check if you have a state-of-the-art GPU. I develop this code using Titan Black. Make sure yours are better than mine :-).
