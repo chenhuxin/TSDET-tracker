@@ -22,7 +22,7 @@ Before running our code, check if you have a state-of-the-art GPU. I develop thi
 
 ## Results
 ### Results on OTB-2015
-![](https://github.com/chenhuxin/TSDET-tracker/results/OTB-2015.png)  
+![Image text](https://github.com/chenhuxin/TSDET-tracker/results/OTB-2015.png)  
 
 ## Contact
 Huxin Chen <br>
