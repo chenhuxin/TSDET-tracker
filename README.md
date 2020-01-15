@@ -10,7 +10,7 @@ There is one folder in this repository. Our main development is kept in the TSDE
 2. Matlab2017b
 3. VS2015
 4. Cuda8.0
-5. cudnnV5
+5. cudnn v5
 6. git clone https://github.com/chenhuxin/TSDET-tracker.git
 
 ## How to run the Code
@@ -18,7 +18,7 @@ Before running our code, check if you have a state-of-the-art GPU. I develop thi
 
 1. Please download the VGG-16 model and put it under 'TSDET/exp/model/'. You can download VGG-16 model via http://www.vlfeat.org/matconvnet/pretrained/.
 2. Compile the MatConvNet according to the [website](http://www.vlfeat.org/matconvnet/install/).
-3. Try `TSDET/demo.m` to see the tracker performance on the test sequence.
+3. Try `TSDET/Demo.m` to see the tracker performance on the test sequence.
 
 ## Results
 ### Results on OTB-2015
