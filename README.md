@@ -21,5 +21,5 @@ Before running our code, check if you have a state-of-the-art GPU. I develop thi
 3. Try `TSDET/demo.m` to see the tracker performance on the test sequence.
 
 ## Contact
-Huxin Chen<br>
-Email: huxin_chen@163.com
+  Huxin Chen
+  Email: huxin_chen@163.com
