@@ -31,3 +31,9 @@ Before running our code, check if you have a state-of-the-art GPU. I develop thi
 ## Contact
 Huxin Chen <br>
 Email: huxin_chen@163.com
+@misc{LiteCNTYang2019,
+      author =       {Lingxiao Yang},
+      title =        {[A Lightweight Convolutional Network for Visual Tracking},
+      howpublished = {\url{https://github.com/ZjjConan/LiteCNT}},
+      year =         {2019}
+    }
