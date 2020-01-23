@@ -4,7 +4,7 @@
 This is the implementation of our TSDET paper. The paper page can be found here: https://ieeexplore.ieee.org/document/8950038
 
 ## Requirements
-There is one folder in this repository. Our main development is kept in the TSDET folder. Matconvnet folder and test sequence are placed in dataset folder and external folder, respectively.
+There are two folders in this repository. Our main development is kept in the TSDET folder. Matconvnet folder and test sequence are placed in dataset folder and external folder, respectively.
 
 1. MatConvNet-1.0-beta24 or latest
 2. Matlab2017b
